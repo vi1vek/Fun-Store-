@@ -1,1 +1,4 @@
 # Fun-Store-
+Developed an e-commerce website clone as a group project, simulating a complete online shopping experience. The project utilized HTML, CSS, JavaScript, and PHP to create a fully functional, responsive website, replicating the structure and features of a professional e-commerce platform. Key functionalities included product listings, user authentication, shopping cart, and checkout processes.
+
+I was responsible for creating the website’s visual style and layout to ensure an attractive, intuitive, and user-friendly experience. My work focused on designing and implementing responsive, consistent styles across pages, developing interactive elements, and ensuring compatibility across browsers and devices. I collaborated closely with team members to align design with functionality, applying CSS best practices to enhance both aesthetics and usability.
